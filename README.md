@@ -17,7 +17,7 @@ Even though this was my first "real project", I already had some familiarity wit
 The project is nothing but a badge **(there's a screenshot of it below)**, but in case you feel like cloning the project:
 
 ```bash
-  git clone https://github.com/Maymisk/NLWbadge.git
+git clone https://github.com/Maymisk/NLWbadge.git
 ```
 
 
